@@ -1,0 +1,32 @@
+{
+    "name": "naventum/naventum",
+    "type": "project",
+    "description": "The Naventum simple PHP Framework.",
+    "keywords": ["framework", "naventum"],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Database\\Migrations\\": "database/migrations"
+        }
+    },
+    "authors": [
+        {
+            "name": "RyoDevz",
+            "email": "ytryo789@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "config": {
+        "optimize-autoloader": true,
+        "sort-packages": true
+    },
+    "require": {
+        "naventum/framework": "^1.0",
+        "naventum/naventum-auth": "^1.0"
+    }
+}

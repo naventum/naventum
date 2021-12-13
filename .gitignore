@@ -1,0 +1,4 @@
+/vendor/
+/framework/
+/naventum-auth/
+/.env
