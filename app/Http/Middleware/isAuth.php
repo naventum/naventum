@@ -13,7 +13,7 @@ class isAuth implements Middleware
     public function handle()
     {
         if (!Auth::user()) {
-            return redirect('/login');
+            return redirect('/auth/login');
         }
 
         return true;

@@ -12,7 +12,7 @@ return [
     |
     */
 
-    'name' => 'Naventum',
+    'name' => env('APP_NAME', 'Naventum'),
 
     /*
     |--------------------------------------------------------------------------
@@ -25,7 +25,7 @@ return [
     |
     */
 
-    'env' => 'development',
+    'env' => env('APP_ENV', 'production'),
 
     /*
     |--------------------------------------------------------------------------
@@ -38,7 +38,7 @@ return [
     |
     */
 
-    'url' => 'http://localhost:8000/',
+    'url' => env('APP_URL', 'http://localhost:8000/'),
 
     'asset_url' => '/assets',
 
@@ -69,8 +69,8 @@ return [
          */
         Naventum\Framework\Illuminate\Debug\DebugServiceProvider::class,
         Naventum\Framework\Illuminate\Foundation\Support\Providers\AuthServiceProvider::class,
-        App\Providers\AppServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
+        App\Providers\AppServiceProvider::class,
 
         // Naventum\NaventumAuth\Illuminate\Foundation\Support\NaventumauthServiceProvider::class,
     ]
