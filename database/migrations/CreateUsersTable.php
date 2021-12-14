@@ -3,14 +3,11 @@
 namespace Database\Migrations;
 
 use Illuminate\Database\Capsule\Manager as Capsule;
-use Naventum\Framework\Illuminate\Database\Connection;
 
-class CreateUsersTable extends Connection
+class CreateUsersTable
 {
     public function up()
     {
-        $this->___conn();
-
         Capsule::schema()->create('users', function ($table) {
             $table->id();
             $table->string('username')->unique();
