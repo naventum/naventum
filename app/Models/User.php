@@ -2,7 +2,7 @@
 
 namespace App\Models;
 
-use Naventum\Framework\Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Model;
 
 class User extends Model
 {
