@@ -10,12 +10,12 @@ class IsGuest implements Middleware
     /**
      * Handle an incoming request.
      */
-    public function handle()
+    public function handle($next, $closure)
     {
         if (Auth::user()) {
             return redirect('/');
         }
 
-        return true;
+        return $next($closure);
     }
 }
