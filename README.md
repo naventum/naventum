@@ -2,8 +2,6 @@
 
 The Naventum simple PHP Framework
 
-[![PHP Composer](https://github.com/rizkytegar/naventum/actions/workflows/php.yml/badge.svg)](https://github.com/rizkytegar/naventum/actions/workflows/php.yml)
-![](https://github.styleci.io/repos/457622076/shield?branch=1.x)
 [![CodeQL](https://github.com/rizkytegar/naventum/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/rizkytegar/naventum/actions/workflows/codeql-analysis.yml)
 [![Total Downloads](https://poser.pugx.org/naventum/naventum/downloads.svg)](https://packagist.org/packages/naventum/naventum)
 [![License](https://poser.pugx.org/naventum/naventum/license.svg)](https://packagist.org/packages/naventum/naventum)
