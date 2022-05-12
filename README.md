@@ -2,9 +2,15 @@
 
 The Naventum simple PHP Framework
 
-[![CodeQL](https://github.com/rizkytegar/naventum/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/rizkytegar/naventum/actions/workflows/codeql-analysis.yml)
-[![Total Downloads](https://poser.pugx.org/naventum/naventum/downloads.svg)](https://packagist.org/packages/naventum/naventum)
-[![License](https://poser.pugx.org/naventum/naventum/license.svg)](https://packagist.org/packages/naventum/naventum)
+
+<p align="center">
+<a href="https://github.com/naventum/naventum/actions/workflows/codeql-analysis.yml"><img src="https://github.com/naventum/naventum/actions/workflows/codeql-analysis.yml/badge.svg" alt="CodeQL"></a>
+<a href="https://github.com/naventum/naventum/actions"><img src="https://github.com/naventum/naventum/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/lnaventum/naventum"><img src="https://img.shields.io/packagist/dt/naventum/naventum" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/naventum/naventum"><img src="https://img.shields.io/packagist/v/naventum/naventum" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
+
 ### Installation
 The best way to use this boilerplate is using [Composer](https://getcomposer.org/).
 
