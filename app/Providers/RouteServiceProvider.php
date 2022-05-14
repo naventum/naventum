@@ -13,6 +13,6 @@ class RouteServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        $this->addRoutePath('../routes/web.php');
+        $this->addRoutePath( base_path('/routes/web.php') );
     }
 }

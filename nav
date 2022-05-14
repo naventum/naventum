@@ -1,0 +1,7 @@
+<?php
+
+use Naventum\Framework\Illuminate\Foundation\Cli\Cli;
+
+require_once 'vendor/autoload.php';
+
+(new Cli)->init(__DIR__)->run($argv);
