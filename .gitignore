@@ -2,3 +2,4 @@
 /framework/
 /naventum-auth/
 /.env
+/composer.lock
