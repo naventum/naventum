@@ -10,9 +10,7 @@
         }
     },
     "autoload-dev": {
-        "psr-4": {
-            "Database\\Migrations\\": "database/migrations"
-        }
+        "psr-4": {}
     },
     "scripts": {
         "post-root-package-install": [
