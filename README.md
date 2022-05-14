@@ -5,7 +5,7 @@ The Naventum simple PHP Framework
 <p align="center">
 <a href="https://github.com/naventum/naventum/actions/workflows/codeql-analysis.yml"><img src="https://github.com/naventum/naventum/actions/workflows/codeql-analysis.yml/badge.svg" alt="CodeQL"></a>
 <a href="https://github.com/naventum/naventum/actions/workflows/ci.yml">
-        <img src="https://github.com/naventum/naventum/actions/workflows/ci.yml/badge.svg?branch=1.x" alt="CI Tests"></a>
+        <img src="https://github.com/naventum/naventum/actions/workflows/ci.yml/badge.svg" alt="CI Tests"></a>
 <a href="https://packagist.org/packages/naventum/naventum"><img src="https://img.shields.io/packagist/dt/naventum/naventum" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/naventum/naventum"><img src="https://img.shields.io/packagist/v/naventum/naventum" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/naventum/naventum"><img src="https://img.shields.io/packagist/l/naventum/naventum" alt="License"></a>
