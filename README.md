@@ -2,7 +2,7 @@
 
 The Naventum simple PHP Framework
 
-<p align="center">
+<p align="center"><a href="https://github.styleci.io/repos/457622076?branch=1.x"><img src="https://github.styleci.io/repos/457622076/shield?branch=1.x" alt="StyleCI"></a>
 <a href="https://github.com/naventum/naventum/actions/workflows/codeql-analysis.yml"><img src="https://github.com/naventum/naventum/actions/workflows/codeql-analysis.yml/badge.svg" alt="CodeQL"></a>
 <a href="https://github.com/naventum/naventum/actions/workflows/ci.yml">
         <img src="https://github.com/naventum/naventum/actions/workflows/ci.yml/badge.svg" alt="CI Tests"></a>
