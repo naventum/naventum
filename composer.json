@@ -10,7 +10,7 @@
         "naventum/naventum-auth": "^1.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "^9.5.10"
+        "phpunit/phpunit": "^11.2.8"
     },
     "autoload": {
         "psr-4": {
